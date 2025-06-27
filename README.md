@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Nitin Gupta
 
-🎓 CS & Math major @ Grinnell College (Expected May 2025)  
+🎓 CS & Math major @ Grinnell College '25
 🛠 I build backend systems, contribute to OSS, and teach programming concepts  
 📍 US Citizen | Grimes, IA | Open to Software Engineering internships & roles  
 
