@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🧱 **Backend Systems** – Built scalable C# MVC apps for 200+ government institutions  
 - 📦 **Infrastructure** – Dockerized monitoring systems for 600+ database and network nodes  
-- 🧠 **Machine Learning** – Implemented Isolation Forests for predictive maintenance on IoT devices  
+- 🧠 **Machine Learning** – Implemented Isolation Forests for predictive maintenance on IoT devices and High learning rate Multi-Agent Starcraft II Neural Networks
 - 🧬 **Functional and Low Level Programming** – Rust, OCaml, Haskell, Zig — clean, expressive, performance-first  
 
 ---
