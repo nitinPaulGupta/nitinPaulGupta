@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## 🔧 What I Work On
 
-- 🧱 **Backend Systems** – Built scalable C# MVC apps for 200+ government institutions  
 - 📦 **Infrastructure** – Dockerized monitoring systems for 600+ database and network nodes  
 - 🧠 **Machine Learning** – Implemented Isolation Forests for predictive maintenance on IoT devices and high learning rate Multi-Agent Starcraft II Neural Networks
 - 🧬 **Functional and Low Level Programming** – Rust, OCaml, Haskell, Zig — clean, expressive, performance-first  
+- 🧱 **Backend Systems** – Built scalable C# MVC apps for 200+ government institutions  
 
 ---
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ---
 
-⚡ Fun fact: I’m currently exploring how functional programming can optimize secure infrastructure design.
+🔭 I’m currently working on how functional programming can optimize secure embedded design.
